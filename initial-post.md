@@ -10,4 +10,5 @@ I found the implementation straight forward with the aid of my
 hooks. I attempt to open source my work and this is no different. The
 implementation for the blog, along with the rest of the site, is on
 [Github](https://github.com/eyolfson/django-gitolite). The blog code
-specifically is in the `django_blog` module.
+specifically is in the `django_blog` module. The blog posts are also available
+[Github](https://github.com/eyolfson/site-eyl-blog).
