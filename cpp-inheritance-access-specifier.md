@@ -21,9 +21,9 @@ private                      | private              | private
 
 As another refresher, here's how you can remember what the access means. The
 most restrictive, `private`, means only this class can access the members
-(fields or methods). The next, `protected`, allows `private` access and allows
-access in any derived classes. Finally, `public`, allows `private` and
-`protected` access and allows access from outside the class.
+(fields or methods). Next, `protected` allows `private` access and allows access
+in any derived classes. Finally, `public` allows `private` and `protected`
+access and allows access from outside the class.
 
 Here's an example in code:
 
